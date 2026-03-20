@@ -1,0 +1,38 @@
+body{
+    font-family: Arial;
+    margin:0;
+    }
+    
+    header{
+    background:#f8b500;
+    padding:15px;
+    display:flex;
+    justify-content:space-between;
+    color:white;
+    }
+    
+    nav a{
+    color:white;
+    margin:10px;
+    text-decoration:none;
+    }
+    
+    .hero{
+    text-align:center;
+    padding:60px;
+    background:#ffe5b4;
+    }
+    
+    .card{
+    display:inline-block;
+    padding:20px;
+    margin:15px;
+    border:1px solid #ccc;
+    }
+    
+    footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:10px;
+    }
